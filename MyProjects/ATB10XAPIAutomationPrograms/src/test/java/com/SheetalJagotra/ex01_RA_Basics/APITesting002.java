@@ -16,12 +16,7 @@ public class APITesting002 {
     }
 }
 
-    public static void main(String[] args) {
-        APITesting002 np = new APITesting002();
-        np.step1();
-        np.step2();
-        np.step3("Ram");
-    }
+
 
 
 
